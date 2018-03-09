@@ -20,7 +20,11 @@ a {
 a:visited {
   color: Aquamarine;
 }
+.footer,
 p {
   color: Gray;
   font-size: 21px;
+}
+.footer {
+  text-align: right;
 }
